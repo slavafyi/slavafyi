@@ -1,4 +1,4 @@
-Hey there! 🤟
+Hey there! 🖖
 
 I'm a Self-Taught Software Developer specializing in **Shopify** and **headless commerce** solutions. With over five years of experience, I excel in building custom Shopify stores using modern technologies. 
 
