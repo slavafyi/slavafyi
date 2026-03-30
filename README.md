@@ -1,7 +1,10 @@
 Hey there! 🖖
 
-I'm a self-taught software engineer with over five years of experience in the **Shopify** and ecommerce space. While I’ve spent a lot of time building stores and apps, I’m currently shifting my focus toward **Cloud Native engineering** and learning how to design more complex backends and systems architecture.
+I'm a self-taught web developer working in the Shopify ecosystem
+for the past 5 years. I build custom apps and integrations with
+Node.js and React, and handle things like CI/CD setup, legacy
+code refactoring, and deployment automation.
 
-I still work daily with **TypeScript** and **Node.js**, but I’m now spending more time with microservices and infrastructure. I’m a big fan of open-source, Neovim, and self-hosting, and I’m always looking to get deeper into the technical side of how things are built.
-
-Open to collaboration!
+Lately I've been getting into DevOps and infrastructure. Learning
+AWS and Docker, and looking to work with bigger systems. Still a
+big fan of open-source, Neovim, and self-hosting.
