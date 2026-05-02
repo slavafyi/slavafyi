@@ -7,4 +7,4 @@ code refactoring, and deployment automation.
 
 Lately I've been getting into DevOps and infrastructure. Learning
 AWS and Docker, and looking to work with bigger systems. Still a
-big fan of open-source, Neovim, and self-hosting.
+big fan of open source, Neovim, and self-hosting.
