@@ -1,4 +1,4 @@
-Hey there! 🖖
+Hey, traveler 🖖
 
 I'm a self-taught web developer working in the Shopify ecosystem
 for the past 5 years. I build custom apps and integrations with
