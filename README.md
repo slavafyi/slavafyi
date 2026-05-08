@@ -1,7 +1,7 @@
 Hey, wanderer 🖖
 
 I'm a self-taught web developer working in the Shopify ecosystem
-for the past 5 years. I build custom apps and integrations with
+for the past 5+ years. I build custom apps and integrations with
 Node.js and React, and handle things like CI/CD setup, legacy
 code refactoring, and deployment automation.
 
